@@ -21,8 +21,7 @@
 ### 構築方法 (Windows機の人)
 VirtualBoxっていう仮想化ソフトと、LinuxのディストリビューションであるUbuntuを組み合わせて使います。
 
-1. VirtualBoxのダウンロード
-
+#### VirtualBoxのダウンロード
 https://www.virtualbox.org/wiki/Downloads から
 
 * VirtualBox x.x.xx for Windows hosts
@@ -30,7 +29,7 @@ https://www.virtualbox.org/wiki/Downloads から
 
 をダウンロードする。
 
-2. Ubuntuのダウンロード
+#### Ubuntuのダウンロード
 
 http://www.ubuntu.com/download/desktop から
 
@@ -38,9 +37,9 @@ http://www.ubuntu.com/download/desktop から
 
 ↑を選択した後、ページ下の"Not now, take me to the download"ってやつクリックすればダウンロードが始まるはず。
 
-3. VirtualBoxのインストール
+#### VirtualBoxのインストール
 
-4. VirtualBoxにUbuntuをインストール
+#### VirtualBoxにUbuntuをインストール
 
 ## Java勉強会#1
 * そもそもJavaって何だ？
