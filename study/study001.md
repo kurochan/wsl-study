@@ -44,6 +44,10 @@ http://www.ubuntu.com/download/desktop から
 
 #### VirtualBoxにUbuntuをインストール
 
+#### 仮想マシンに必要なソフトウェアのインストール
+
+    $ sudo apt-get install build-essential
+
 ## Java勉強会#1
 * そもそもJavaって何だ？
     * Javaってどんな言語？
