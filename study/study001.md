@@ -53,7 +53,7 @@ http://www.ubuntu.com/download/desktop から
     * Javaってどんな言語？
     * Javaのコミュニティ
     * 中間言語
-        * バイトコードを除いてみる？
+        * バイトコードをのぞいてみる？
     * VM
         * Androidはどうなってる？
     * GC
