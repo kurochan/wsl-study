@@ -16,11 +16,11 @@ http://otndnld.oracle.co.jp/ondemand/javaday/L-1.pdf
 #### バイトコードをのぞいてみる？
 ### VM
 ### Androidはどうなってる？
-> Androidのアーキテクチャ
+> Androidのアーキテクチャ  
 > http://www.android-group.jp/index.php?plugin=attach&pcmd=open&file=RIA-Android.pdf&refer=%B5%BB%BD%D1%BB%F1%CE%C1
 
 ### GC
-ガーベジコレクションの略。
+ガーベジコレクションの略。  
 プログラマが明示的にメモリの確保や開放といった処理を記述しなくてよい。
 メモリリークを回避できる。
 
