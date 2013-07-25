@@ -19,6 +19,8 @@ http://www.ubuntu.com/download/desktop から
 
 ## VirtualBoxのインストール
 
+## Extension Packのインストール
+
 ## VirtualBoxにUbuntuをインストール
 
 ## 仮想マシンに必要なソフトウェアのインストール
