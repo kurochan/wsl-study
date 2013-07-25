@@ -8,8 +8,8 @@
 
 ## 全体の流れ
 1. どんな感じで勉強会をやっていくか
-1. VM環境の構築
-1. Java勉強会#1
+1. [VM環境の構築](create-vm-environments.md)
+1. [Java勉強会#1](learn-about-java.md)
 
 ## どんな感じで勉強会をやっていくか
 * どうして勉強会をしたいのか
