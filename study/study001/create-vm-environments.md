@@ -25,4 +25,6 @@ http://www.ubuntu.com/download/desktop から
 
 ## 仮想マシンに必要なソフトウェアのインストール
 
-    $ sudo apt-get install build-essential
+```sh
+$ sudo apt-get install build-essential
+```
