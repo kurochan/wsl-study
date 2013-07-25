@@ -2,13 +2,28 @@
 
 
 ## そもそもJavaって何だ？
+>
+http://otndnld.oracle.co.jp/ondemand/javaday/L-1.pdf
+
+
 ### Javaってどんな言語？
+> http://otndnld.oracle.co.jp/ondemand/javaday/J-4.pdf
+
 ###  Javaのコミュニティ
+> 日本Javaユーザーグループ http://www.java-users.jp/
+
 ###  中間言語
 #### バイトコードをのぞいてみる？
 ### VM
 ### Androidはどうなってる？
+> Androidのアーキテクチャ
+> http://www.android-group.jp/index.php?plugin=attach&pcmd=open&file=RIA-Android.pdf&refer=%B5%BB%BD%D1%BB%F1%CE%C1
+
 ### GC
+ガーベジコレクションの略。
+プログラマが明示的にメモリの確保や開放といった処理を記述しなくてよい。
+メモリリークを回避できる。
+
 #### アルゴリズム
 
 
@@ -62,6 +77,8 @@
 
 
 ## 分散処理
+> http://otndnld.oracle.co.jp/ondemand/javaday/C-4.pdf
+
 ### Hadoopの紹介(配達先輩に喋ってもらう？)
 
 
