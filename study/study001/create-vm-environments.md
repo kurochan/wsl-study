@@ -22,5 +22,5 @@ http://www.ubuntu.com/download/desktop から
 ## Extension Packのインストール
 
 ## VirtualBoxにUbuntuをインストール
-別の所に書いておきました。
+別の所に書いておきました。  
 http://kurochan-note.hatenablog.jp/entry/2013/07/28/130739
