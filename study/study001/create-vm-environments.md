@@ -22,21 +22,5 @@ http://www.ubuntu.com/download/desktop から
 ## Extension Packのインストール
 
 ## VirtualBoxにUbuntuをインストール
-
-## 仮想マシンの起動
-
-## とりあえずアップデートかけとく
-ターミナルを立ち上げて、以下のコマンドを入力。
-
-```sh
-$ sudo apt-get update
-```
-
-最初はそこそこ時間かかるかもしれないので、気長に待ちましょう。
-
-## 必要なソフトウェアのインストール
-ターミナルを立ち上げて、以下のコマンドを入力。
-
-```sh
-$ sudo apt-get install build-essential
-```
+別の所に書いておきました。
+http://kurochan-note.hatenablog.jp/entry/2013/07/28/130739
