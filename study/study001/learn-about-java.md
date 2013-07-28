@@ -16,7 +16,9 @@ Java Day Tokyo2013の初心者向けセッション
 > http://otndnld.oracle.co.jp/ondemand/javaday/J-4.pdf
 
 ###  Javaのコミュニティ
-> 日本Javaユーザーグループ http://www.java-users.jp/
+日本Javaユーザーグループ
+
+> http://www.java-users.jp/
 
 ###  中間言語
 #### バイトコードをのぞいてみる？
@@ -53,6 +55,7 @@ Androidのアーキテクチャ(日本Android友の会資料)
 
 ### オートボクシング
 ### シンタックスシュガー
+拡張for文っていいます。
 
 ```java
 for(Object obj : array) {
@@ -122,7 +125,7 @@ RuntimeExceptionのサブクラスは絶対に作ってはいけない
 
 
 ##  <del>JavaリフレクションAPI</del>
-### 最初は知る必要ないかも
+最初は知る必要ないかも
 
 
 ## Javadocの読み方
