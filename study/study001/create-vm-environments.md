@@ -14,6 +14,7 @@ https://www.virtualbox.org/wiki/Downloads から
 http://www.ubuntu.com/download/desktop から
 
 * Ubuntu 13.04 32-bit(64bit版が使いたい人はいいけど、とりあえず最初は32bit版使うのが無難な気がする)
+    * Ubuntu 13.04がうまく動かなかった人もいるので、現時点での安定版(12.04LTS)を使うのが無難かもしれません。
 
 ↑を選択した後、ページ下の"Not now, take me to the download"ってやつクリックすればダウンロードが始まるはず。
 
