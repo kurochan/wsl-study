@@ -25,3 +25,29 @@ http://www.ubuntu.com/download/desktop から
 ## VirtualBoxにUbuntuをインストール
 別の所に書いておきました。  
 http://kurochan-note.hatenablog.jp/entry/2013/07/28/130739
+
+## 数理最適化研究室勉強会のための準備
+###エディタを入れましょう。
+
+```sh
+$ sudo aptitude install vim
+```
+
+###TeXの環境構築をしましょう。  
+インストール(そこそこ時間がかかります)
+
+```sh
+$ sudo aptitude install texlive-lang-cjk latexmk
+```
+
+設定
+
+```sh
+$ sudo vim /usr/bin/latexmk
+```
+
+それぞれ、  
+`$latex = 'latex %O %S';` を `$latex = 'platex %O %S';` に  
+`$dvipdf = 'dvipdf %O %S %D';` を `$dvipdf = 'dvipdfmx %O %S;'` に  
+`$pdf_mode = 0;` を `$pdf_mode = 3;`に  
+置換します。
