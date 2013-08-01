@@ -145,6 +145,9 @@ https://gist.github.com/kurochan/1164946
 知らないとハマりますよ  
 http://kurochan-note.hatenablog.jp/entry/20110316/1300267023
 
+### 無名クラス
+コンパレータの例
+
 
 ## オーバーライドとオーバーロード
 ### できると何がいいの？
@@ -160,6 +163,9 @@ http://kurochan-note.hatenablog.jp/entry/20110316/1300267023
 メソッド名を作るときに気をつけなければいけない
 
 
+## シリアライズ
+文字やバイトデータの入出力以外に、オブジェクトの入出力を行う。オブジェクトをネットワーク等を経由して直接転送出来る。
+
 ## パッケージ
 ### 名前空間
 パッケージという概念がある事で、名前空間という概念を作る事ができる。
@@ -168,8 +174,10 @@ http://kurochan-note.hatenablog.jp/entry/20110316/1300267023
 
 
 ## 例外
+悪いことは起こりうる、例え良いプログラムであっても。
 ### 暗黒面
-RuntimeExceptionのサブクラスは絶対に作ってはいけない
+RuntimeExceptionはいつでも投げられる。 
+RuntimeExceptionのサブクラスを投げるプログラムを設計してはいけない。
 
 
 ## デザインパターン
@@ -197,10 +205,38 @@ RuntimeExceptionのサブクラスは絶対に作ってはいけない
 
 ## 標準ライブラリ
 ### StringBuilder / StringBuffer
-### コレクション系
+
+### Scanner
+
+### データ構造
+
+#### 配列
+* 最低限絶対必要
+
 #### List系
+* ArrayList
+* LinkedList
+
 #### Set系
+* HashSet
+* LinkedHashSet
+* TreeSet
+
 #### Map系
+* HashMap
+* LinkedHashMap
+* TreeMap
+
+#### Stack
+* = List
+
+#### Queue
+* LinkedList
+
+#### Synchronized〜
+* Collections.synchronizedList
+* Collections.synchronizedSet
+* Collections.synchronizedMap
 
 
 ## 外部ライブラリ
@@ -244,6 +280,9 @@ RuntimeExceptionのサブクラスは絶対に作ってはいけない
 ### リファクタリング
 
 ### コーディング規約, コーディングスタイル
+Java コーディング規約
+
+> http://numata.designed.jp/javacodeconv/
 
 ### ペアプロ
 ペアプログラミング。2人一組でコーディングを行う。
